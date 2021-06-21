@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
 
 
 import tkinter as tk
@@ -87,16 +83,4 @@ mylist.pack(fill = NONE)
 scrollbar.config( command = mylist.yview )
 
 window.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
